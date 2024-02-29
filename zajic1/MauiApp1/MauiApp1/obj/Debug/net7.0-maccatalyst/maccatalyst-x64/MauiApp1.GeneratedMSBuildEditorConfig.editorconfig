@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp1
+build_property.ProjectDir = C:\TEMP\MauiApp1\MauiApp1\
+
+[C:/TEMP/MauiApp1/MauiApp1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/EDpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.EDpage.xaml
+build_metadata.AdditionalFiles.TargetPath = EDpage.xaml
+build_metadata.AdditionalFiles.RelativePath = EDpage.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/EOpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.EOpage.xaml
+build_metadata.AdditionalFiles.TargetPath = EOpage.xaml
+build_metadata.AdditionalFiles.RelativePath = EOpage.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/EPFpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.EPFpage.xaml
+build_metadata.AdditionalFiles.TargetPath = EPFpage.xaml
+build_metadata.AdditionalFiles.RelativePath = EPFpage.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/EVFpage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.EVFpage.xaml
+build_metadata.AdditionalFiles.TargetPath = EVFpage.xaml
+build_metadata.AdditionalFiles.RelativePath = EVFpage.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/NovaFaktura.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.NovaFaktura.xaml
+build_metadata.AdditionalFiles.TargetPath = NovaFaktura.xaml
+build_metadata.AdditionalFiles.RelativePath = NovaFaktura.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/NovyDodavatel.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.NovyDodavatel.xaml
+build_metadata.AdditionalFiles.TargetPath = NovyDodavatel.xaml
+build_metadata.AdditionalFiles.RelativePath = NovyDodavatel.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/NovyOdberatel.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.NovyOdberatel.xaml
+build_metadata.AdditionalFiles.TargetPath = NovyOdberatel.xaml
+build_metadata.AdditionalFiles.RelativePath = NovyOdberatel.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/TEMP/MauiApp1/MauiApp1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
